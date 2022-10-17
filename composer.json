@@ -1,0 +1,11 @@
+{
+  "name": "sejator/api-cekresi",
+  "type": "project",
+  "description": "Contoh Implementasi Curl Request Codeigniter 4 Untuk Mengecek No Resi",
+  "license": "MIT",
+  "require": {
+    "php": "^7.4 || ^8.0",
+    "codeigniter4/framework": "^4.0",
+    "paquettg/php-html-parser": "^3.1"
+  }
+}
