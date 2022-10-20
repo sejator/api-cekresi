@@ -11,7 +11,7 @@ Contoh Implementasi Curl Request Codeigniter 4 Untuk Mengecek No Resi.
  - Masuk ke direktori `cd api-cekresi`
  - Jalankan `composer update` untuk mendownload dependensinya.
  - Running aplikasi `php spark serve` kemudian buka urlnya `http://localhost:8080/`
- - Opsional untuk development buat file `.env` dengan perintah `php spark key:generate` kemudian edit bagian `CI_ENVIRONMENT = production` menjadi `CI_ENVIRONMENT = development`
+ - Opsional untuk development buat file `.env` dengan perintah `php spark key:generate` kemudian edit bagian `#CI_ENVIRONMENT = production` menjadi `CI_ENVIRONMENT = development`
 
 ## Endpoint
 Ganti parameter resi untuk melacak detail no resi.
